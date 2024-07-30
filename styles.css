@@ -1,0 +1,92 @@
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro{
+    line-height: 0.0;
+}
+
+.personal{
+    background-color: #1d8fd5;
+    height:40px;
+    text-align: left;
+    color: white;
+    padding-top: 11px;
+    padding-left: 8px;
+}
+
+.expertise{
+    background-color: #1d8fd5;
+    height:40px;
+    text-align: left;
+    color: white;
+    padding-top: 11px;
+    padding-left: 8px;
+}
+
+.skills{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.common{
+    width: 65px;
+    height: 30px;
+    background-color: rgb(232, 228, 228);
+    border-radius: 15px;
+    font-size: x-small;
+    padding-top: 5px;
+    text-align: center;
+}
+
+.education{
+    background-color: #1d8fd5;
+    height:40px;
+    text-align: left;
+    color: white;
+    padding-top: 11px;
+    padding-left: 8px;
+}
+
+
+.institute{
+    display: flex;
+    flex-direction: column;
+}
+
+.one{
+    display: flex;
+    justify-content: space-between;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.year{
+    padding-right: 5px;
+}
+
+.internships{
+    background-color: #1d8fd5;
+    height:40px;
+    text-align: left;
+    color: white;
+    padding-top: 11px;
+    padding-left: 8px;
+
+}
+
+.year1{
+    padding-right: 5px;
+}
+
+.info{
+    font-size: small;
+}
